@@ -1,6 +1,5 @@
-# JohnDoe
-A Responsive Free One Page Portfolio Website template
-
+# DiscOva Health
+The official website for DiscOva
 
 
 
